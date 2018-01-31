@@ -1,0 +1,147 @@
+-- Tipus algebraics
+
+data Draw = Paper | Stone | Scissor
+
+win :: Draw -> Draw -> Bool
+win Paper Scissor = True
+win Stone Paper   = True
+win Scissor Stone = True
+win   _       _   = False
+
+data Buleano = True | False
+
+data ListInt = Empty | Front Int ListInt
+
+length2 :: ListInt -> Int
+length2 Empty = 0
+length2 (Front _ xs) = 1 + length2 xs
+
+
+
+data CustomList a = Empty | Front a CustomList
+
+lint :: CustomList  Int
+lint = 4 `Front` (3 `Front` Empty)
+
+lchar :: CustomList Char
+lchar = 'a' `Front` ('b' `Front` Empty)
+
+lengthCL :: CustomList -> Int
+lengthCL Empty = 0
+lengthCL (Front _ xs) = 1 + lengthCL xs
+
+--LAB!
+data BinTree a = Empty | Node a (BinTree a) (BinTree a) -- Node -> [LeftChild, RightChild]
+
+height :: BinTree a -> Int
+height Empty = 0
+height (Node _ lc rc) = 1 + max (height lc) (height rc)
+
+eqTree :: BinTree a -> BinTree a -> Bool
+eqTree Empty Empty = True
+eqTree (Node x lc1 rc1) (Node y lc2 rc2) = (x == y) && (eqTree lc1 lc2) && (eqTree rc1 rc2)
+eqTree _ _ = False
+
+
+data Tree = Empty | Node a [Tree a] --Arbre general de multiples branques per node; 
+                                    --cal el primer {Node a} per no ser recursivament Empty
+
+-- Pot tenir el resultat, o no l'ha de computar (ex. concret: div per 0)
+data Maybe = Just a | Nothing
+
+
+isJust :: Maybe a -> Bool
+isJust (Just _) = True
+isJust Nothing = True
+
+--Tipus que pot ser de 2 tipus a la vegada. Also per detectar d'errors => Left (out) ; Right (correct)
+data Either a b :: Left a | Right b
+
+just :: Maybe a -> a
+just (Just x) = x
+
+data Expr = Value a 
+          | Neg (Expr a)
+          | Add (Expr a) (Expr a)
+          | Sub (Expr a) (Expr a)
+          | Mul (Expr a) (Expr a)
+          | Div (Expr a) (Expr a)
+          | Mod (Expr a) (Expr a)
+
+eval :: Expr a -> Either String a
+eval (Value x) = x
+eval (Neg  x ) = 0 - eval x
+eval (Add x y) = eval x + eval y
+eval (Sub x y) = eval x - eval y
+eval (Mul x y) = eval x * eval y
+eval (Div x y) |
+    | r2 == 0 = puStrLn("ERROR")
+    | otherwise = Just (eval r1 / eval r2)
+    where
+        Just r1 = eval e1
+        Just r2 = eval e2
+--Boilerplate! Les fixejem amb monades (coming soon)
+
+
+{- COM HO FA?
+
+    template <typename a>
+    struct Expr {
+        enum {Value, Neg, Add, Sub, Mul, Div, Mod} constr;
+
+        union {
+            struct{ a value; }
+            struct{ *Expr neg; }
+            struct{ *Expr e1; *Expr e2; }
+            ...
+        };
+    }
+    La
+    
+    7+(-2)  ----> SUMA <----
+                [   |   ]   |
+                  |    |    |
+                  |    |    |
+                  V    V    |
+                VALUE  NEG  |
+                [ 7 ]  [-2]--
+-}
+
+
+newtype Dollarydoos = Dollarydoos Float
+--equivalent to
+data Dollarydoos = Dollarydoos Float
+
+-- ... Pero a newtype no es pot ficar merda addicional :(
+
+
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+---------------------------------------------------------
+
+-- CLASSES
+
+data (Ord a) => BST = Empty | Nodes a (BST a) (BST a) --Binary Search Trees
+                                                    deriving (Show)
+
+create :: BST a
+create = Empty
+
+insert :: (Ord a) => BST a -> a -> BST a
+insert Empty x = Node x Empty Empty 
+insert (Node k lc rc) x
+    | x < k = Node k (insert lc x) rc
+    | x > k = Node k lc (insert rc x)
+    | otherwise = (Node k lc rc)
+
+find :: (Ord a) => BST a -> a -> Bool
+find Empty x = False
+find (Node k lc rc) x
+    | x < k = find lc x
+    | x > k = find rc x
+    | otherwise = True
+
+

@@ -1,0 +1,261 @@
+--------< List Debug >--------
+['patata']
+[]
+[]
+--------< /List Debug >-------
+##############################
+mou-te contra la violència masclista: programa d'activitats    ==>    sant antoni
+visita dinamitzada per a escoles a la sagrada família - museu temple expiatori    ==>    la sagrada família
+visites guiades a la casa lleó i morera    ==>    la dreta de eixample
+arbres de nadal sostenibles a càrrec de l'associació les corts comerç 08028    ==>    la maternitat i sant ramon
+visites guiades 'ruta del cementiri del poblenou'    ==>    el poblenou
+visites guiades 'ruta de montjuïc, somnis de barcelona'    ==>    el poble-sec
+cicle 'si fa fred,... juguem al parc!': exposició 'espai änima: l'univers poètic de la costura'    ==>    el parc i la llacuna del poblenou
+exposició "castells"    ==>    la marina de port
+exposició col·lectiva de patchwork    ==>    horta
+exposició 'arran de terra. mosaics hidràulics i altres paviments'    ==>    horta
+exposició permanent del museu picasso    ==>    sant pere, santa caterina i la ribera
+mostra de pintors, caricaturistes i retratistes de les rambles    ==>    el raval
+exposició "col·lectiva de nadal", a càrrec dels "amics de l'art i col·lectiu àngel mas"    ==>    el guinardó
+exposició 'el taller compartit. picasso, fín, vilató, xavier'    ==>    sant pere, santa caterina i la ribera
+exposició '1917. picasso a barcelona'    ==>    sant pere, santa caterina i la ribera
+exposició 'arthur cravan. maintenant?'    ==>    sant pere, santa caterina i la ribera
+projecte comunitari: 'can portallibres'    ==>    sant andreu
+exposició 'il.lustracions i olis'    ==>    el carmel
+exposició 'sentiments'    ==>    les corts
+exposició 'síntesi' de jaume jové    ==>    sant andreu
+exposició "amal - tikva (i want my ballback)"    ==>    sant genís dels agudells
+exposició "desàrtic"    ==>    la sagrada família
+exposició 'barcelona - toulouse: obra gràfica'    ==>    la nova esquerra de l'eixample
+exposició 'diàlegs plàstics entre l'home i la geometria', de pere aragay    ==>    sarrià
+exposició 'expressant sentiments', de elena yáñez serra    ==>    sarrià
+exposició 'lucien clergue: vint-i-set encontres amb picasso'    ==>    sant pere, santa caterina i la ribera
+exposició 'realisme contemporani. tresors urbans', a càrrec d'aida mauri crusat    ==>    sants
+exposició 'els castells no són de princeses'    ==>    el barri gòtic
+exposició 'vaca, etc' de marcel piqué    ==>    sant pere, santa caterina i la ribera
+exposició edicions 62: de l'original al llibre'    ==>    el raval
+exposició 'imatges i fragments d'història. petit abast dels fons fotogràfic del cedoc'    ==>    sant pere, santa caterina i la ribera
+exposició permanent 'pensada per fer pensar' i projeccions audiovisuals    ==>    vallvidrera, el tibidabo i les planes
+exposició 'fustes'    ==>    ciutat meridiana
+exposició "ellos son el mundo"    ==>    sant gervasi - galvany
+taller 'mobils'    ==>    el clot
+taller 'gimnàstica suau'    ==>    el clot
+exposició "els drets dels infants"    ==>    navas
+exposició fotogràfica col·lectiva ' la imatge del jo mateix'    ==>    el turó de la peira
+exposició 'la revolució neolítica: la draga, el poblat dels prodigis'    ==>    el poble-sec
+exposicició 'horts urbans: espais de transformació'    ==>    el guinardó
+exposició "un món convuls", d'andoni lubaki    ==>    el turó de la peira
+exposició fotogràfica col·lectiva a càrrec dels alumnes de l'espai fotogràfic de can basté    ==>    el turó de la peira
+exposició permanent  'col·lecció d'escultura'    ==>    el barri gòtic
+exposició d'art contemporani    ==>    el poble-sec
+instal·lació "nadala 2017. joan miró i les figuretes de pessebre", de josep mañà    ==>    el poble-sec
+exposició permanent  'gabinet del col·leccionista'    ==>    el barri gòtic
+'com neixen i creixen els instruments'. visites per a escoles    ==>    el fort pienc
+art en joc 'el mural de sol lewitt: variacions sobre un tema'    ==>    la font de la guatlla
+exposició 'el palau de pedralbes, ahir i avui'    ==>    pedralbes
+exposició 'planeta vida'    ==>    el besòs i el maresme
+'els sons de l'aire'.   visita per a escoles    ==>    el fort pienc
+exposició 'el monestir de pedralbes. una joia de l'art català'    ==>    pedralbes
+mercat de llibres del carrer diputació    ==>    l'antiga esquerra de l'eixample
+nadal als museus: exposició 'els plaers de mirar. tresors del fons bibliogràfic de la universitat de barcelona'    ==>    la barceloneta
+exposició 'el pessebre vivent de la torre del suro vist per fernando marin blanco'    ==>    el guinardó
+nadal als museus: 'deixa el teu missatge de nadal pel fons del mar!(arbre de nadal)'    ==>    el barri gòtic
+exposició '7 vaixells, 7 històries'    ==>    el raval
+exposició 'del món al museu. disseny de producte, patrimoni cultural'    ==>    el parc i la llacuna del poblenou
+exposició 'el cos vestit. siluetes i moda (1550-2015)'    ==>    el parc i la llacuna del poblenou
+exposició 'el disseny gràfic: dofici a professió (1940-1980)'    ==>    el parc i la llacuna del poblenou
+exposició 'extraordinàries! col·leccions d'arts decoratives i arts d'autor (segles iii-xx)'    ==>    el parc i la llacuna del poblenou
+exposició 'passejant amb gaudí'    ==>    el barri gòtic
+exposició permanent  'estudi-biblioteca de frederic marès'    ==>    el barri gòtic
+hipermerc'art by moritz    ==>    sant antoni
+projecte comunitari: bookcrossing: intercanvi de llibres    ==>    vallvidrera, el tibidabo i les planes
+exposició 'mostra dembarcacions'    ==>    el raval
+exposició permanent 'col·lecció permanent del meam'    ==>    sant pere, santa caterina i la ribera
+nadal als museus: exposició 'pessebre clàssic al pati del museu'    ==>    el barri gòtic
+nadal als museus: taller de l'arquitecte    ==>    la barceloneta
+nadal als museus: taller 'el mar de nadal'    ==>    el barri gòtic
+càpsules multimèdia per a adults: taller 'com escollir un llibre digital'    ==>    vallvidrera, el tibidabo i les planes
+exposició "sumer i el paradigma modern"    ==>    el poble-sec
+exposició 'objectes insòlits'    ==>    el raval
+exposició 'les cares de barcelona'    ==>    el poble-sec
+exposició 'som l'oceà'    ==>    el raval
+exposició 'restauració del model fragata barcelona'    ==>    el raval
+exposició 'oleguer junyent, col·leccionista. roda el món i torna al born'    ==>    el barri gòtic
+exposició 'puig i cadafalch vist per ramon manent', en el marc de la commeració dels 150 anys del naixement de josep puig i cadafalch    ==>    el parc i la llacuna del poblenou
+exposició "olympia", de david claerbout    ==>    el raval
+exposició 'imatges per creure. catòlics i protestants a europa i barcelona, segles xvi - xviii'    ==>    el barri gòtic
+exposició 'ramon pichot. d'els quatre gats a la maison rose'    ==>    el poble-sec
+exposició 'idees de bomber en miniatura. els vehicles d'agustí pech'    ==>    el poble-sec
+itinerari 'propaganda fidei. escultura i contrareforma'    ==>    el barri gòtic
+exposició 'de matèria a producte. disseny, tecnologia i innovació a la llar'    ==>    les corts
+exposició 'l'infern segons rodin'    ==>    la dreta de eixample
+exposició '100 anys dels cors humorístics al poble-sec'    ==>    el poble-sec
+dia internacional per a l'erradicació de la violència vers les dones: exposició 'resiliència', de laura rabadán    ==>    la nova esquerra de l'eixample
+exposició 'joan ponç. diàbolo'    ==>    la dreta de eixample
+taller 'pintura sobre roba'    ==>    vilapicina i la torre llobeta
+taller 'sorra, fusta i guix'    ==>    vilapicina i la torre llobeta
+taller 'cultura general'    ==>    vilapicina i la torre llobeta
+taller 'informatica'    ==>    el clot
+taller 'català oral'    ==>    el clot
+taller 'mitja i ganxet'    ==>    el clot
+taller 'internet'    ==>    el clot
+taller 'guitarra' *nou*    ==>    el clot
+taller 'manteniment de la memòria'    ==>    sant martí de provençals
+l'aventura de conèixer: exposició 'dones dibuixades. sis autores davui revisiten núria pompeia '    ==>    sant andreu
+l'aventura de conèixer - exposicions: exposició "kim manresa. fotografies. nou barris 1970-1980"    ==>    la guineueta
+exposició 'de matèria al producte. disseny, tecnologia i innovació a la llar'    ==>    les corts
+exposició "andy warhol: l'art mecànic"    ==>    la font de la guatlla
+exposició 'agon!. la competició a l'antiga grècia'    ==>    la font de la guatlla
+exposició 'comisart. h(a)unting images: anatomia d'un tret'    ==>    la font de la guatlla
+docfield>17. fotografia documental barcelona: exposició "éxodo: vida y muerte en la ruta libia hacia europa", de ricard garcía vilanova i karlos zurutuza    ==>    el raval
+exposició "game of thrones: the touring exhibition"    ==>    el raval
+taller 'edició fotogràfica i photoshop'    ==>    el parc i la llacuna del poblenou
+curs ' i fotografia general'    ==>    sant andreu
+exposició 'nuna. la terra dels inuit'    ==>    sant pere, santa caterina i la ribera
+exposició 'susan meiselas. mediacions'    ==>    la dreta de eixample
+exposició '{1, 2, 3, 4, 5, 6, 7}', de pep vidal    ==>    el poble-sec
+exposició 'l'avenç 40 + 10. història, cultura i memòria'    ==>    vallcarca i els penitents
+exposició solidària 'mirades de color'    ==>    el baix guinardó
+exposició 'joana biarnés. a contracorrent'    ==>    la dreta de eixample
+exposició fotogràfica 'click'    ==>    el camp d'en grassot i gràcia nova
+dia internacional per a l'erradicació de la violència vers les dones: exposició 'mostra d'arpilleres: dona i guerra civil'    ==>    el congrés i els indians
+exposició 'rosemarie castoro. enfocar a l'infinit'    ==>    el raval
+exposició 'casa vicens, la primera casa de gaudí: manifiesto de su obra'    ==>    la vila de gràcia
+exposició '20è aniversari de la biblioteca de nou barris 20 anys en imatges'    ==>    la guineueta
+exposició 'viii premi internacional fundació barcelona olímpica. art sobre paper'    ==>    el poble-sec
+itinerari 'adoració dels reis. escultures del museu frederic marès'    ==>    el barri gòtic
+nadal als museus: exposició 'puig i cadafalch. arquitecte de catalunya'    ==>    la barceloneta
+nadal als museus: exposició 'jo sóc el meu propi experiment'    ==>    la dreta de eixample
+nadal als museus: exposició 'nazis i feixistes: l'ocupació simbòlica de barcelona 1939-45'    ==>    el poble-sec
+exposició 'el 10 de la reial'    ==>    el barri gòtic
+nadal als museus: exposició 'ombres al gineceu'    ==>    la dreta de eixample
+exposició 'microcrèdits a haití'    ==>    sant gervasi - la bonanova
+nadal als museus: exposició 'l'espai dels somnis'    ==>    la dreta de eixample
+exposició "um dia todos fomos peixes"    ==>    sant pere, santa caterina i la ribera
+exposició "mirades selectives. visibilitat temporal"    ==>    sant andreu
+exposició "grzegorz gwiazda"    ==>    sant pere, santa caterina i la ribera
+exposició 'amics i nadal' de meritxell duran    ==>    les corts
+exposició 'montserrat roig, 1977. memòria i utopia'    ==>    sant pere, santa caterina i la ribera
+exposició "cristalleries planells"    ==>    les corts
+exposició "adolf loos. espais privats"    ==>    el parc i la llacuna del poblenou
+exposició "joan miró i les figuretes de pessebre", de joaquim gomis    ==>    el poble-sec
+exposició "llimona. l'escultor de catalunya"    ==>    sant pere, santa caterina i la ribera
+exposició 'gotes d'arxiu'    ==>    el raval
+exposició 'pessebres del món'    ==>    sant gervasi - galvany
+nadal als museus: taller 'planetari bombolla. activitats d'iniciació astronòmica'    ==>    sant gervasi - la bonanova
+visita guiada a la casa de convalescència de l'institut d'estudis catalans    ==>    el raval
+taller 'el gamelan: la música de l'illa dels déus'. per a grups d'adults    ==>    el fort pienc
+rutes de ciclisme urbà & art    ==>    sant antoni
+taller 'sevillanes'    ==>    el clot
+exposició col·lectiva d'aquarel·les    ==>    el poblenou
+exposició 'iniciació al còmic'    ==>    sant gervasi - galvany
+exposició 'el toro. l'animal i el mite; la fiesta i la sàtira'    ==>    la vila de gràcia
+nadal als museus: exposició 'sèries', de suzanne lafont    ==>    el raval
+nadal als museus: exposició "ritmo y estructura", d'alceu ribeiro    ==>    la dreta de eixample
+exposició 'mira'm i emociona't'    ==>    la dreta de eixample
+nadal als museus: taller familiar 'pangèica!'    ==>    el besòs i el maresme
+visita guiada 'barcelona i montjuïc. viu-ne la història'    ==>    el poble-sec
+visita guiada 'viu el castell'    ==>    el poble-sec
+'viu el teu nadal' a la plaça catalunya: espectacle "pas de pardal", a càrrec de toti toronell    ==>    la dreta de eixample
+exposició 'via sepulcral romana'    ==>    el barri gòtic
+exposició 'interrogar barcelona. de la industrialització al segle xxi'    ==>    provençals del poblenou
+exposició "retrospective" de lita cabellut    ==>    la dreta de eixample
+taller 'ioga'    ==>    el clot
+exposició 'què en sap, la història, de mossegar-se les ungles. troquel'    ==>    el raval
+taller 'pintar la llum'    ==>    la font de la guatlla
+exposició 'després de la fi del món'    ==>    el raval
+exposició 'fotografies com a espai públic. col·lecció nacional de fotografia. generalitat de catalunya'    ==>    el raval
+nadal als museus: exposició "matteo guidi, remover con una vara de madera"    ==>    el raval
+nadal als museus: exposició col·lectiva 'les tres gràcies'    ==>    l'antiga esquerra de l'eixample
+nadal als museus: exposició "reflective", de dirk salz    ==>    l'antiga esquerra de l'eixample
+"flux 2017" festival de vídeo dautor    ==>    el raval
+exposició 'maneres de mirar'    ==>    l'antiga esquerra de l'eixample
+exposició 'passatges/bcn, espais de transició per a la ciutat del segle xxi'    ==>    provençals del poblenou
+38è tradicional concert de sant esteve a càrrec del grup coral horta    ==>    horta
+taller 'crea i dissenya un document'    ==>    el clot
+taller 'noves tecnologies'    ==>    el clot
+nadal als museus: taller 'espai d'autodescoberta 'niu de ciència''    ==>    el besòs i el maresme
+concerts i audicions del carilló del palau de la generalitat    ==>    el barri gòtic
+taller 'hatha ioga'    ==>    navas
+activitat familiar 'imaginem el castell'    ==>    el poble-sec
+nadal als museus: projecció "caminant amb dinosaures"    ==>    sant gervasi - la bonanova
+activitats de dinamització educativa durant les vacances de nadal a l'escola el carmel dins el programa 'patis  oberts'    ==>    el carmel
+exposició 'barcelona vista del besòs', de patrick faigenbaum i joan roca    ==>    el raval
+exposició "rue des pyrénées", d'yves bélorgey    ==>    el raval
+nadal als museus: espectacle "magic gospel"    ==>    la font de la guatlla
+planetari 2d estèreo - projecció "el cel de la cloe"    ==>    sant gervasi - la bonanova
+musical "las aventuras de hércules"    ==>    el poble-sec
+nadal als museus: exposició "20 red lights", de max de esteban    ==>    el raval
+exposició ' espectres. presentació expositiva del projecte dinvestigació'    ==>    el raval
+espectacle de circ "fortius", amb el circ històric raluy    ==>    el barri gòtic
+conta contes al parc zoològic    ==>    sant pere, santa caterina i la ribera
+projecte comunitari: espai de creació plàstica    ==>    el raval
+nadal als museus: projecció 3d "descobreix l'univers més llunyà"    ==>    sant gervasi - la bonanova
+nadal als museus: planetari 3d estèreo - projecció "el somni de volar"    ==>    sant gervasi - la bonanova
+exposició 'la vida en paper. el còmic i la il·lustració com a eines de sensibilització'    ==>    les tres torres
+concurs de còmics a les planes    ==>    vallvidrera, el tibidabo i les planes
+molt per aprendre  aula  digital: taller 'aplicacions de missatgeria al telèfon mòbil: whatsapp, telegram i line'    ==>    montbau
+taller voluntari 'bijuteria'    ==>    la sagrera
+taller voluntari 'aquarel·la'    ==>    la sagrera
+taller 'boixets'    ==>    el clot
+taller 'dibuix'    ==>    el parc i la llacuna del poblenou
+exposició 'la quadratura del cercle a'    ==>    el raval
+nadal als museus: exposició 'espiritisme, lliurepensament i republicanisme a barcelona (1838-1931)'    ==>    el fort pienc
+taller 'pintura i dibuix'    ==>    el clot
+taller 'patchwork'    ==>    el clot
+taller 'teatre'    ==>    el clot
+taller 'teatre'    ==>    el parc i la llacuna del poblenou
+associació de veïns de sant gervasi - grup de ganxet    ==>    sant gervasi - la bonanova
+taller 'viatge a les exposicions de barcelona'    ==>    la nova esquerra de l'eixample
+musical "dirty dancing"    ==>    la dreta de eixample
+taller extraescolar de circ    ==>    sant antoni
+exposició "encantados", de ricardo teles    ==>    la nova esquerra de l'eixample
+taller 'ball en linia'    ==>    el clot
+taller 'photoshop avançat'    ==>    el clot
+taller 'cuina'    ==>    el clot
+espectacle "els pastorets"    ==>    el raval
+exposició "ombres"    ==>    la marina de port
+teatre "un reencuentro inolvidable", a càrrec de lita claver la maña i fernando esteso    ==>    el poble-sec
+exposició 'ricard duran i bargalló, una percepció polièdrica'    ==>    sant pere, santa caterina i la ribera
+taller infantil 'guitarra'    ==>    la maternitat i sant ramon
+cursos d'arts escèniques "petit tísner"    ==>    sant antoni
+taller voluntari 'manualitats amb paper per al cor'    ==>    la sagrera
+taller 'labors i puntes de coixí'    ==>    vilapicina i la torre llobeta
+taller  'cor infantil de l'orfeó sarrianenc'    ==>    sarrià
+'viu el teu nadal' a la plaça catalunya: taller 'la bugada dels malsons'    ==>    la dreta de eixample
+espectacle "intarsi", amb la companyia de circ "eia"    ==>    el poble-sec
+taller 'introducció a la música clàssica'    ==>    vilapicina i la torre llobeta
+club de lectura 'amics lectors'    ==>    el besòs i el maresme
+joves artistes creant (jac)    ==>    la sagrera
+taller 'activa la teva ment'    ==>    el congrés i els indians
+teatre "la caputxeta vermella i un llop diferent"    ==>    el raval
+nadal als museus: projecció "la llum de sant pau. mapping de nadal"    ==>    el guinardó
+taller 'mandales'    ==>    el clot
+taller 'teatre'    ==>    el poblenou
+convocatòria 'l'estenedor 2017' impulsor de projectes de disseny de moda'    ==>    la maternitat i sant ramon
+taller  'grup de teatre musical'    ==>    sarrià
+accions teatrals dins del pessebre de la plaça sant jaume    ==>    el barri gòtic
+espectacles de flamenc "flamenco de los cabales" i "amb carmen amaya a la memòria"    ==>    el raval
+22è circ d'hivern "soterrani còsmic" a l'ateneu popular de nou barris    ==>    la trinitat nova
+teatre 'els pastorets', de josep m. folch i torres    ==>    horta
+teatre 'els pastorets' al casal catòlic de sant andreu    ==>    sant andreu
+taller 'tècniques artístiques aplicades a la bijuteria' *nou*    ==>    la dreta de eixample
+cicle 'coral orfeó català': concert de sant esteve    ==>    sant pere, santa caterina i la ribera
+teatre 'un cop l'any', d'àngel llàcer    ==>    el raval
+musical "cabaret"    ==>    el poble-sec
+teatre "sota teràpia"    ==>    el barri gòtic
+taller 'talla de fusta'    ==>    vilapicina i la torre llobeta
+taller 'italià'    ==>    vilapicina i la torre llobeta
+teatre "adossats"    ==>    el raval
+concert de nadal 'en clau de blues', amb "even blues"    ==>    la vila de gràcia
+espectacle "dani pérez: 20 años no es nada"    ==>    l'antiga esquerra de l'eixample
+teatre 'els pastorets' de josep maria folch i torres a càrrec del grup de teatre del centre moral instructiu de gràcia    ==>    la vila de gràcia
+teatre 'els homes són de mart i les dones de venus'    ==>    el barri gòtic
+teatre "prefiero que seamos amigos", de laurent ruquier    ==>    el raval
+teatre "les noies de mossbank road"    ==>    l'antiga esquerra de l'eixample
+espectacle "pedro córdoba"    ==>    el barri gòtic
+assaig obert castellers del poble - sec    ==>    el poble-sec
+taller 'pilates'    ==>    sant martí de provençals
+concert "ara malikian"    ==>    el guinardó
+concert teatralitzat "nine"    ==>    el barri gòtic
+cicle 'pantalla barcelona'    ==>    

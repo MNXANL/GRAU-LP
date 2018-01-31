@@ -1,0 +1,59 @@
+; Big circle
+TO circle_core
+    REPEAT 90 [
+        RIGHT 4
+        FORWARD 1
+    ]
+    ;LEFT 90
+    ;RIGHT 135
+END
+
+
+
+; Circle of a rotor
+TO circle_rotor :r
+    ;LEFT 90
+    REPEAT 180 [
+        fd 1
+        rt 2
+        ;FORWARD 1
+    ]
+    LEFT 90
+
+    PENUP
+      FORWARD :r
+    PENDOWN
+    
+    RIGHT 135
+END
+
+; Wankel engine representation
+;; n -> Perimeter / 3
+;; l -> Distance centers circles
+;; r ->
+TO rotor :n :l :r
+
+  circle_rotor :r
+
+  REPEAT 3 [
+    REPEAT 10 [
+      right 3
+      FORWARD :n
+      ;RIGHT 3
+    ]
+    RIGHT 90
+  ]
+  RIGHT 45
+  PU
+    fd :r
+    LT 90
+  PD
+END
+
+
+circle_core
+REPEAT 45 [
+  rotor 15 1 55
+  rt 8
+  fd 1
+]
