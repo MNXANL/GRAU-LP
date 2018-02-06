@@ -7,3 +7,4 @@ Notas de las prácticas de cada parte:
  * Compiladores: 8/10
  * Haskell: 9/10
  * Python: 9.5/10
+ * Competència Transversal (Logo): 10/10
